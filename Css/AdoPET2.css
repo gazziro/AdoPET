@@ -1,0 +1,90 @@
+@charset "ISO-8859-1";
+
+.imgs{
+	width:200px;
+	height:180px;
+	display: inline-block;
+	
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body{
+  background: linear-gradient(120deg,#f5f7fa, #b8c6db);
+	
+}
+
+fieldset{
+	margin: auto;
+	
+}
+table{
+	margin: auto;
+}
+body{
+	margin: auto;
+}
+.alinhar{
+	display: inline-block;
+	
+}
+
+h3{
+	margin-left: 47.5%;
+	display: inline-block;
+	 font-family: "Poppins", sans-serif;
+	
+	
+}
+#telefone{
+	background-color: gray;
+	
+}
+
+.global{
+  width: 220px;
+  height: 300px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: center;	
+}
+
+span{
+	width:200px;
+	justify-content: center;
+}
+.img-banner{
+	display: flex;
+	flex-direction: row;
+	justify-content:center;
+	align-items:flex-start;
+}
+footer{
+	text-align: center;
+	font-style: italic;
+	font-family: "Poppins", sans-serif;
+	
+}
+
+.linkedin{
+	width:16px;
+	height:16px;
+	
+}
+.txt_field input{
+  width: 100%;
+  padding: 0 5px;
+  height: 40px;
+  font-size: 16px;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+
+
+
+
